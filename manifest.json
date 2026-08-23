@@ -1,5 +1,5 @@
 {
-  "id": "/index.html",
+  "id": "./index.html",
   "name": "Profit Tracker",
   "short_name": "Profit Tracker",
   "description": "A daily P&L calendar and trading statistics tracker.",
